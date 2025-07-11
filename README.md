@@ -83,6 +83,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-
-]me know if you want the README to include a **GIF demo**, **deployment link**, or if this is part of a bigger project (like a dashboard or CMS).
-```
